@@ -1,11 +1,13 @@
 <html>
-<h1>Ticketing System</h1>
+<h3>Ticketing System</h3>
+  
+```
+<ul>
+  <li>Mongo</li>
+</ul
 ```
 
-```
-npm install
-npm run dev
-```
+<h3>Requirements</h3>
 
 ```
 open http://localhost:3000
