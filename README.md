@@ -2,12 +2,14 @@
 <h3>Ticketing System</h3></html>
 <hr/>
 <blockquote>Hono + MongoDB + Node.js</blockquote>
+<br/>
 
 <h3>Requirements</h3>
 <hr/>
 <li><a href="https://account.mongodb.com/">MongoDB</a> - Database</li>
 <li><a href="https://hono.dev/">Hono</a> - Server Framework</li>
 <li><a href="https://nodejs.org/en">Node.js</a> - Server Environment</li>
+<br/>
 
 <h3>Deployment</h3>
 <hr/>
@@ -24,6 +26,7 @@ Lalu masuk ke folder yang sudah di clone
 cd ticket-sederhana
 npm install
 ```
+<br/>
 
 <h3>Running Development System</h3>
 <hr/>
@@ -31,6 +34,7 @@ npm install
 ```
 npm run dev
 ```
+<br/>
 
 <h3>Endpoint</h3>
 <hr/>
@@ -43,9 +47,10 @@ npm run dev
   <li><code>/tickets/:id</code> : Metode DELETE - Untuk menghapus data tickets</li>
   <li><code>/tickets/answered</code> : Metode POST - Untuk membalas message pada tickets</li>
   <li><code>/tickets/answered</code> : Metode GET - Untuk melihat data balasan</li>
-</ul>
+</ul><br/>
 
 <h3>Membuat akun melalui POSTMAN</h3>
+<hr/>
 <ul>
   <li>Buat Collection Rest API</li>
   <li>Masukkan link URL</li>
