@@ -10,13 +10,17 @@
 <h3>Deployment</h3>
 <text>Buat folder baru untuk menyimpan projectnya, lalu clone repositorynya</text>
 <blockquote>Folder harus kosong!</blockquote>
+
 ```
 git clone https://github.com/Opalrsln/ticket-sederhana.git
 ```
 
-<text>Lalu masuk ke folder yang sudah di clone</text>
-```
+Lalu masuk ke folder yang sudah di clone
 
 ```
+cd ticket-sederhana
+```
+
+
  
 
