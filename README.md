@@ -1,6 +1,5 @@
 <html>
-```
-
+<h1>Ticketing System</h1>
 ```
 
 ```
@@ -11,5 +10,4 @@ npm run dev
 ```
 open http://localhost:3000
 ```  
-</html>
 
