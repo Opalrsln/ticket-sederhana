@@ -1,18 +1,15 @@
 <html>
 <h2>Ticketing System</h2></html>
-<hr/>
 <blockquote>Hono + MongoDB + Node.js</blockquote>
 <br/>
 
 <h2>Requirements</h2>
-<hr/>
 <li><a href="https://account.mongodb.com/">MongoDB</a> - Database</li>
 <li><a href="https://hono.dev/">Hono</a> - Server Framework</li>
 <li><a href="https://nodejs.org/en">Node.js</a> - Server Environment</li>
 <br/>
 
 <h2>Deployment</h2>
-<hr/>
 Buat folder baru untuk menyimpan projectnya, lalu clone repositorynya
 <blockquote>Folder harus kosong!</blockquote>
 
@@ -29,7 +26,6 @@ npm install
 <br/>
 
 <h2>Running Development System</h2>
-<hr/>
 
 ```
 npm run dev
@@ -37,7 +33,6 @@ npm run dev
 <br/>
 
 <h2>Endpoints</h2>
-<hr/>
 <ul>
   <li><code>/register</code> : Metode POST - Untuk membuat akun</li>
   <li><code>/login</code> : Metode POST - Untuk mendapatkan token</li>
@@ -50,7 +45,6 @@ npm run dev
 </ul><br/>
 
 <h2>Membuat akun melalui POSTMAN</h2>
-<hr/>
 <ul>
   <li>Buat Collection Rest API</li>
   <li>Masukkan link URL</li>
