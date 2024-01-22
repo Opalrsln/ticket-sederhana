@@ -1,10 +1,7 @@
 <html>
 <h3>Ticketing System</h3>
-  
+<li>MongoDB</li>
 ```
-<ul>
-  <li>Mongo</li>
-</ul
 ```
 
 <h3>Requirements</h3>
