@@ -47,23 +47,23 @@ npm run dev
 
 <h3>Membuat akun melalui POSTMAN</h3>
 <ul>
-  <ol>Buat Collection Rest API</ol>
-  <ol>Masukkan link URL</ol>
+  <li>Buat Collection Rest API</li>
+  <li>Masukkan link URL</li>
  
   ```
  localhost:3000/register
   ```
-  <ol>Gunakan Metode POST</ol>
-  <ol>Pilih Body, lalu masukkan data JSON seperti berikut : </ol>
+  <li>Gunakan Metode POST</li>
+  <li>Pilih Body, lalu masukkan data JSON seperti berikut : </li>
 
   ```
-{
-  "username": "user",
-  "email": "user123@example.com",
-  "password": "user123456",
-  "address": "Washington C12",
-  "phonenumber": "1234567"
-}
+  {
+    "username": "user",
+    "email": "user123@example.com",
+    "password": "user123456",
+    "address": "Washington C12",
+    "phonenumber": "1234567"
+  }
   ```
 
 
